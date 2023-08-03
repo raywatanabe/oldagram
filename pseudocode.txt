@@ -1,0 +1,3 @@
+avatar, post = img el
+everything else = p el
+name, username, likes = bold
